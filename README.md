@@ -10,7 +10,7 @@ Solutions are solutions.
 @link http://xxx   <-- 题目地址
 @author xxx
 
-你的题解，如包含图片或者 LaTex，可以直接贴出你的文章链接（@see）
+你的题解，若包含图片或者 LaTex，可以直接贴出你的文章链接（@see）
 
 */
 ```
