@@ -1,3 +1,8 @@
+/* 
+http://codeforces.com/contest/460/problem/D
+@author Σndless
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
